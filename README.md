@@ -305,12 +305,4 @@ This project demonstrates:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-**Author:** Francisco Mustico  
-**Project Type:** Educational - Operating System Command Line Interpreter Design  
-**Technology:** C# / .NET 9.0  
-**Platform:** Cross-platform (Windows, macOS)
-- 
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. 
