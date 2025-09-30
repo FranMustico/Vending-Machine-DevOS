@@ -1,0 +1,13 @@
+/obj
+/.DS_Store
+/bin/Debug
+/bin/Release/net9.0/Publish
+/bin/Release/net9.0/Vending-Machine-DevOS.deps.json
+/bin/Release/net9.0/Vending-Machine-DevOS.dll
+/bin/Release/net9.0/Vending-Machine-DevOS.exe
+/bin/Release/net9.0/Vending-Machine-DevOS.pdb
+/bin/Release/net9.0/Vending-Machine-DevOS.runtimeconfig.json
+
+
+!/bin/Release/net9.0/win-x64
+!/bin/Release/net9.0/osx-arm64
